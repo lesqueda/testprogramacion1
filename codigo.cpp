@@ -33,3 +33,221 @@ while(condicion){
     }
 
 }
+
+
+while(condicion){
+
+
+
+
+
+    for(int i=0; i<=10; i++){
+
+        for(int l = 0; l <=10; l++){
+
+
+
+        }
+
+    }
+
+}
+
+while(condicion){
+
+
+
+
+
+    for(int i=0; i<=10; i++){
+
+        for(int l = 0; l <=10; l++){
+
+
+
+        }
+
+    }
+
+}
+
+while(condicion){
+
+
+
+
+
+    for(int i=0; i<=10; i++){
+
+        for(int l = 0; l <=10; l++){
+
+
+
+        }
+
+    }
+
+}
+
+while(condicion){
+
+
+
+
+
+    for(int i=0; i<=10; i++){
+
+        for(int l = 0; l <=10; l++){
+
+
+
+        }
+
+    }
+
+}
+
+while(condicion){
+
+
+
+
+
+    for(int i=0; i<=10; i++){
+
+        for(int l = 0; l <=10; l++){
+
+
+
+        }
+
+    }
+
+}
+
+while(condicion){
+
+
+
+
+
+    for(int i=0; i<=10; i++){
+
+        for(int l = 0; l <=10; l++){
+
+
+
+        }
+
+    }
+
+}
+
+while(condicion){
+
+
+
+
+
+    for(int i=0; i<=10; i++){
+
+        for(int l = 0; l <=10; l++){
+
+
+
+        }
+
+    }
+
+}
+
+while(condicion){
+
+
+
+
+
+    for(int i=0; i<=10; i++){
+
+        for(int l = 0; l <=10; l++){
+
+
+
+        }
+
+    }
+
+}
+
+while(condicion){
+
+
+
+
+
+    for(int i=0; i<=10; i++){
+
+        for(int l = 0; l <=10; l++){
+
+
+
+        }
+
+    }
+
+}
+
+while(condicion){
+
+
+
+
+
+    for(int i=0; i<=10; i++){
+
+        for(int l = 0; l <=10; l++){
+
+
+
+        }
+
+    }
+
+}
+
+while(condicion){
+
+
+
+
+
+    for(int i=0; i<=10; i++){
+
+        for(int l = 0; l <=10; l++){
+
+
+
+        }
+
+    }
+
+}
+
+while(condicion){
+
+
+
+
+
+    for(int i=0; i<=10; i++){
+
+        for(int l = 0; l <=10; l++){
+
+
+
+        }
+
+    }
+
+}
+
